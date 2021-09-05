@@ -10,10 +10,10 @@ This is a very simple virtual kitchen responsive single page website built with 
 
 2. **Mobile version**
 
-    <img src="Demo/landing_mob.png"  height="350" width="150px"/>
-    <img src="Demo/nav_mob.png" height="350px" width="150px" />
-    <img src="Demo/product_mob.png" height="350px" width="150px" />
-    <img src="Demo/feature_mob.png" height="350px" width="200px" />
+    <img src="Demo/landing_mob.png"  height="350" width="180px"/>
+    <img src="Demo/nav_mob.png" height="350px" width="180px" />
+    <img src="Demo/product_mob.png" height="350px" width="180px" />
+    <img src="Demo/feature_mob.png" height="350px" width="180px" />
 
 
 # Project Summary
